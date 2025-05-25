@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hey there, I'm Michela 👋
 
-<!--
-**michelarosedayawon/michelarosedayawon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**About me 👩‍💻**
 
-Here are some ideas to get you started:
+🎓 CS student | STEM grad  
+💻 Aspiring Full-Stack Developer  
+🌱 Currently learning: Java, Python, HTML/CSS, and JavaScript  
+🛠️ Playing around with GitHub, VS Code, Codédex, and cool dev tools  
+🚀 Passionate about tech, design, and building cool stuff  
+📚 Forever a learner — always exploring new frameworks and ideas  
+💬 Let's connect, collaborate, and geek out over code!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+**daily.dev Card**
+
+<a href="https://app.daily.dev/michigan"><img src="https://api.daily.dev/devcards/v2/WqOXrYiGx0BuSXoy07G9n.png?type=default&r=xmh" width="356" alt="Michigan's Dev Card"/></a>
