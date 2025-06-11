@@ -2,13 +2,9 @@
 
 **About me 👩‍💻**
 
-🎓 CS student | STEM grad  
-💻 Aspiring Full-Stack Developer  
+🎓 CS student | STEM grad   
 🌱 Currently learning: Java, Python, HTML/CSS, and JavaScript  
 🛠️ Playing around with GitHub, VS Code, Codédex, and cool dev tools  
-🚀 Passionate about tech, design, and building cool stuff  
-📚 Forever a learner — always exploring new frameworks and ideas  
-💬 Let's connect, collaborate, and geek out over code!
 
 ---
 **daily.dev Card**
