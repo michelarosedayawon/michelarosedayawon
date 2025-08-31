@@ -2,9 +2,9 @@
 
 **About me 👩‍💻**
 
-🎓 CS student | STEM grad   
-🌱 Currently learning: Java, Python, HTML/CSS, and JavaScript  
-🛠️ Playing around with GitHub, VS Code, Codédex, and cool dev tools  
+CS student | STEM grad   
+Currently learning: Java, Python, HTML/CSS, and JavaScript  
+Playing around with GitHub, VS Code, Codédex, and cool dev tools  
 
 ---
 **daily.dev Card**
